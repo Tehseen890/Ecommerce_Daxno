@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756031207149",
+    "project_id": "daxno-ecommerce-app",
+    "storage_bucket": "daxno-ecommerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756031207149:android:95387cd0d40ca3aadf3ee4",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_daxno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756031207149-vvdq5mcpc58s70r065fe1sptjs8jqe5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJQqz6sXE3WHxYDA9E2s2X_HMm9rnvO1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756031207149-vvdq5mcpc58s70r065fe1sptjs8jqe5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
